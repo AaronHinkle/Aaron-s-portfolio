@@ -1,59 +1,20 @@
-﻿# Class of your Choice
-Class of Choice is a Console App that allows a user to interact with a class of your creation. You get to decide what you want to build! Then, when your application is complete, you will have written a class that gives your object appropriate state and behavior, and a way for the user to interact with it.
+﻿# BlackJack
 
-## Setup
-Spend some time thinking about the features your Class of Choice will have. Draw out a class diagram to identify your class's properties and methods. Your class should have at least 3 properties, a constructor, and two additional methods that manipulate properties of the class. Choose an 'object' type that has many, clearly-defined characteristics.
+# 1-Person Blackjack Game
 
-Here are some ideas for classes, properties and methods. Use one of these ideas as a starting point, or make up your own:
+This is a simple 1-person blackjack game implemented in C#. The game allows a single player to play a simplified version of the popular casino card game, blackjack, against the computer.
 
-- Book Class: track number of books read, keep list of favorite books, favorite genre, favorite author, keep a reading list, remove books from the list after they are read
-- Grocery List Class: add a grocery item to the list, display your list, save grocery store name, grocery budget, amount spent at last grocery trip
-- Recipe Class: save recipe name, list of ingredients, print ingredients to console, save cooking instructions, add ingredients, remove ingredients
-- Car Service Class: car name, car year, next maintenance due, service needs, print info to console, days to next maintenance
-- Football Game Class: home team, opponent name, home team record, opponent record, stadium name, game start time, home team quarterback, show info on screen, predict winner
-- Cookie Order Class: cookie name, cookie description, number cookies ordered, cost per cookie, calculate total cost, delivery date, show days until delivery, show order details
+## Game Rules
 
-## Instructions
-Create a Console applicatio and add a Program.cs class to contain your console application. Then, make a basic UI that allows for user interaction through the various methods you've outlined. 
+The objective of the game is to have a hand with a total value higher than the dealer's hand, without exceeding 21. A secondary objective is to amass as many "chips" as the player can, while avoiding the unfortunate end result of running out! The game follows these rules:
 
-Start by thinking about your main menu options. What actions do you want the user to be able to take?
-
-Instantiate your objects in the Program class. Provide a nice user interface so the user can interact with your object(s). Put your interface in a loop so the user has control over how long they want to engage with your console app.
-
-## Superhero Example
-What do you want to do with your SuperHero?
-1. Name them
-2. Add to their list of powers
-3. Use their power
-4. Check their health level
-5. Exit
-
-Input: 3
-
-Which power would you like to use?
-1. Strength
-2. Flying
-3. Invisibility
-
-Input: 2
-
-Your SuperHero has used their Flying power.
-
-(Do not use the superhero for your final submission)
-
-## Your Class
-Add a class file and name it after the object it represents. Add your properties, methods, and any constructors you may need to your class file.
-
-## Grading
-A Passing grade will be based on the following criteria:
-
-- Your completed work has been pushed up to the GitHub Classroom repository before the deadline.
-- Your console app compiles and runs without error.
-- Tests are optional.
-- You have added a class that includes the following:
-
-   - at least 5 properties that are used within your application
-
-   - at least 3 methods that are called within your application (NOTE: methods that Get or Set properties do not count toward the 3 method minimum)
-
-   - An interface that allows the user to interact with all of an object's methods, and the option to continue interacting or exit.
+1. The player and the dealer are each dealt two cards.
+2. The player can see both of their cards but can only see one of the dealer's cards.
+3. Face cards (Jack, Queen, King) have a value of 10, and Ace can be either 1 or 11.
+4. The player can choose to "hit" to receive an additional card, or "stand" to stop receiving cards.
+5. If the player's hand exceeds 21, they lose the game immediately (bust).
+6. After the player stands, the dealer reveals their hidden card.
+7. The dealer will hit until their hand value reaches 17 or higher.
+8. If the dealer's hand exceeds 21, they lose the game (bust).
+9. If neither the player nor the dealer busts, the hand with the higher total wins.
+10. If both hands have the same total, it's a tie (push).
