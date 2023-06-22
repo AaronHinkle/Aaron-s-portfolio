@@ -1,8 +1,8 @@
-#BlackJack
+##BlackJack
 1-Person Blackjack Game
 This is a simple 1-person blackjack game implemented in C#. The game allows a single player to play a simplified version of the popular casino card game, blackjack, against the computer.
 
-#Game Rules
+##Game Rules
 The objective of the game is to have a hand with a total value higher than the dealer's hand, without exceeding 21. A secondary objective is to amass as many "chips" as the player can, while avoiding the unfortunate end result of running out! The game follows these rules:
 
 The player and the dealer are each dealt two cards.
