@@ -1,0 +1,17 @@
+﻿
+06/01/2023	
+Overall the program can deal a new hand.
+
+What still needs to be done is to create variables around hit/stay, logic around winning/losing a hand and how to connect that into the card value's and card counter.
+
+Card counter is working, but will need to be factored into the hit/stay functionality to be able to track situations outside of just the four dealt cards. 
+
+Need a way to capture the logic around the dealer's hidden card (Would have to be checked if it's an instant blackjack ahead of time while still staying hidden, just wouldn't get written to player.
+
+
+Needed methods: 
+
+Hit/Stay =
+Values of cards that are delivered by Enums to do card counting
+overall card numbers that feed off of hit/stay after inital cards are dealt
+win/loss

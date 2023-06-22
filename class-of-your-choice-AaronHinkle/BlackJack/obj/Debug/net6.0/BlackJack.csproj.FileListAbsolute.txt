@@ -1,0 +1,15 @@
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\obj\Debug\net6.0\BlackJack.csproj.AssemblyReference.cache
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\obj\Debug\net6.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfo.cs
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\obj\Debug\net6.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\bin\Debug\net6.0\BlackJack.exe
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\bin\Debug\net6.0\BlackJack.deps.json
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\bin\Debug\net6.0\BlackJack.runtimeconfig.json
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\bin\Debug\net6.0\BlackJack.dll
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\bin\Debug\net6.0\BlackJack.pdb
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\obj\Debug\net6.0\BlackJack.dll
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\obj\Debug\net6.0\refint\BlackJack.dll
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\obj\Debug\net6.0\BlackJack.pdb
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\obj\Debug\net6.0\BlackJack.genruntimeconfig.cache
+C:\Users\a_hin\Source\Repos\WeCanCodeIT\class-of-your-choice-AaronHinkle\BlackJack\obj\Debug\net6.0\ref\BlackJack.dll
